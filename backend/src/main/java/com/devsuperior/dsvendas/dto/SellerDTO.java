@@ -1,12 +1,8 @@
 package com.devsuperior.dsvendas.dto;
 
-import com.devsuperior.dsvendas.entities.Sale;
 import com.devsuperior.dsvendas.entities.Seller;
 
-import javax.persistence.OneToMany;
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.List;
 
 public class SellerDTO implements Serializable {
 
